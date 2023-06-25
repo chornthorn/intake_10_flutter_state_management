@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: false
+    prefer_const_constructors_in_immutables: false
+    avoid_print: false
+    avoid_relative_lib_imports: false
+    sort_child_properties_last: false
+    library_private_types_in_public_api: false
+    
